@@ -14,6 +14,8 @@ Native speaker
 **English** :us:  
 Upper Intermediate
 
+### 📂 [Data Analyst Portfolio](https://github.com/katrinakulpina/portfolio)
+
 ### 🎓 Education
 - Moscow Institute of Physics and Technology, Russia
   - **Further vocational education** in Data Analysis (2022 - 2023)
