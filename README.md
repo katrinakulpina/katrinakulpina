@@ -26,7 +26,7 @@ Upper Intermediate
 ### 📜 Certifications
 
 #### MIPT-School of Applied Mathematics and Computer Science
-- [Basic SQL](https://drive.google.com/file/d/1eQr8RbPl2QKTizoE-Rcj4mqBUo_F0hIz/view?usp=share_link)
+- Basic SQL ([ru](https://drive.google.com/file/d/1eTVOhcj8ultaCTIWFhS8jC__vEapDA1n/view?usp=share_link) | [en](https://drive.google.com/file/d/1eQr8RbPl2QKTizoE-Rcj4mqBUo_F0hIz/view?usp=share_link))
 
 #### Stepik
 - [Basic Python](https://stepik.org/cert/1948594) 
